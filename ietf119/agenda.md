@@ -21,4 +21,4 @@
 
 ## Presentations (X minutes)
 
-- [Name](https://datatracker.ietf.org/doc/url) - _Presenter_, X minutes
+- [Achieving Consistent Low Latency for Wireless Real-Time Communications with the Shortest Control Loop](https://zilimeng.com/papers/zhuge-sigcomm22.pdf) - _Zili Meng_, 20 minutes
