@@ -2,8 +2,8 @@
 
 ## Time and Date
 
-* TBD ([See this time in your local timezone]())
-* Location: TBD
+* Thursday March 21, 09:30 - 11:30 GMT+1 ([See this time in your local timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ICCRG+at+IETF+119&iso=20240321T0930&p1=47&ah=2))
+* Location: [P2](https://datatracker.ietf.org/meeting/119/floor-plan?room=p2)
 * [IETF Agenda Link](https://datatracker.ietf.org/meeting/119/agenda/?show=iccrg)
 
 ## Links
