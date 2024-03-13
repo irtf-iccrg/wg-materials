@@ -19,9 +19,8 @@
 * Blue sheets / scribe selection / [NOTE WELL](https://www.irtf.org/policies/irtf-note-well-2021-05.pdf) 
 * Agenda revision
 
-## Presentations (60 minutes)
+## Presentations (50 minutes)
 
 - Chair slides - _Chairs_, 10 minutes
-- Update on rLEDBAT and LEDBAT++ - _TBD_, 10 minutes
 - [Revisiting Common TCP Evaluation Suite](https://datatracker.ietf.org/doc/draft-irtf-iccrg-tcpeval/) - _Mohit P. Tahiliani, remote_, 20 minutes
 - [Achieving Consistent Low Latency for Wireless Real-Time Communications with the Shortest Control Loop](https://zilimeng.com/papers/zhuge-sigcomm22.pdf) - _Zili Meng, onsite_, 20 minutes
