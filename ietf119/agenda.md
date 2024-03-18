@@ -24,5 +24,6 @@
 - Chair slides - _Chairs_, 10 minutes
 - [Revisiting Common TCP Evaluation Suite](https://datatracker.ietf.org/doc/draft-irtf-iccrg-tcpeval/) - _David Hayes, onsite_, 20 minutes
 - [Implicit Congestion Notification: Achieving Consistent Low Latency for Wireless Real-Time Communications with the Shortest Control Loop](https://zilimeng.com/papers/zhuge-sigcomm22.pdf) - _Zili Meng, onsite_, 20 minutes
+- [Update on rLEDBAT](https://datatracker.ietf.org/doc/draft-irtf-iccrg-rledbat/) - _Daniel Havey, remote_, 15 minutes
 
 - Open mic - _Chairs_
