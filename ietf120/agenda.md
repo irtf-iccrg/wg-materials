@@ -22,6 +22,6 @@
 ## Presentations
 
 - Chair slides - _Chairs_
-- Ssthresh after slow start - _Michael Welzl, onsite_, 20 minutes
+- Ssthresh after slow start overshoot - _Michael Welzl, onsite_, 20 minutes
 - Pacing in transport protocols - _Michael Welzl, onsite_, 20 minutes
 - Promises and potential of BBRv3 - _Emilia Weyulu_, 20 minutes
