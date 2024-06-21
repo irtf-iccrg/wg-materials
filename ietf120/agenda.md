@@ -2,8 +2,8 @@
 
 ## Time and Date
 
-* TBD
-* Location: TBD
+* Friday, July 26, 13:00-15:00 GMT-7 ([See this time in your local timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ICCRG+at+IETF+120&iso=20240726T13&p1=256&ah=2))
+* Location: [Georgia B](https://datatracker.ietf.org/meeting/120/floor-plan?room=georgia-b)
 * [IETF Agenda Link](https://datatracker.ietf.org/meeting/120/agenda/?show=iccrg)
 
 ## Links
@@ -23,5 +23,5 @@
 
 - Chair slides - _Chairs_
 - Ssthresh after slow start overshoot - _Michael Welzl, onsite_, 20 minutes
-- Pacing in transport protocols - _Michael Welzl, onsite_, 20 minutes
+- Pacing in transport protocols - _Michael Welzl, onsite_, 10 minutes
 - Promises and potential of BBRv3 - _Emilia Weyulu_, 20 minutes
