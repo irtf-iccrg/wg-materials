@@ -21,7 +21,8 @@
 
 ## Presentations
 
-- Chair slides - _Chairs_
+- Chair slides - _Chairs_, 10 minutes
 - Ssthresh after slow start overshoot - _Michael Welzl, onsite_, 20 minutes
 - Pacing in transport protocols - _Michael Welzl, onsite_, 10 minutes
 - Promises and potential of BBRv3 - _Emilia Weyulu_, 20 minutes
+- L4S and Prague congestion control - _Koen De Schepper_, 30 minutes
