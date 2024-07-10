@@ -3,7 +3,7 @@
 ## Time and Date
 
 * Friday, July 26, 13:00-15:00 GMT-7 ([See this time in your local timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ICCRG+at+IETF+120&iso=20240726T13&p1=256&ah=2))
-* Location: [Georgia B](https://datatracker.ietf.org/meeting/120/floor-plan?room=georgia-b)
+* Location: [Georgia A](https://datatracker.ietf.org/meeting/120/floor-plan?room=georgia-a)
 * [IETF Agenda Link](https://datatracker.ietf.org/meeting/120/agenda/?show=iccrg)
 
 ## Links
