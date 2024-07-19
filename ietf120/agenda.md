@@ -24,5 +24,4 @@
 - Chair slides - _Chairs_, onsite, 10 minutes
 - **Ssthresh after slow start overshoot** - _Michael Welzl_, onsite, 20 minutes
 - **Pacing in transport protocols** - [draft-welzl-iccrg-pacing](https://datatracker.ietf.org/doc/draft-welzl-iccrg-pacing/) - _Michael Welzl_, onsite, 10 minutes
-- **[Promises and potential of BBRv3](https://inet-bbrv3eval.mpi-inf.mpg.de/)** - _Emilia Weyulu_, onsite, 20 minutes
 - **L4S and Prague congestion control** - [draft-briscoe-iccrg-prague-congestion-control](https://datatracker.ietf.org/doc/draft-briscoe-iccrg-prague-congestion-control/), _Koen De Schepper_, onsite, 30 minutes
