@@ -21,7 +21,8 @@
 
 ## Presentations
 
-- Chair slides - _Chairs_, onsite, 10 minutes
+- Chair slides - _Chairs_, onsite, 5 minutes
+- **Hackathon update** - _Chairs_, 5 minutes
 - **Ssthresh after slow start overshoot** - _Michael Welzl_, onsite, 20 minutes
 - **Pacing in transport protocols** - [draft-welzl-iccrg-pacing](https://datatracker.ietf.org/doc/draft-welzl-iccrg-pacing/) - _Michael Welzl_, onsite, 10 minutes
 - **L4S and Prague congestion control** - [draft-briscoe-iccrg-prague-congestion-control](https://datatracker.ietf.org/doc/draft-briscoe-iccrg-prague-congestion-control/), _Koen De Schepper_, onsite, 30 minutes
