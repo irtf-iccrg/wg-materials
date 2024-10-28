@@ -27,4 +27,4 @@
 - **Promises and Potential of BBRv3** - _Emilia Weyulu_, onsite, 20 minutes
 - **SUSS: Improving TCP Performance by Speeding Up Slow-Start** - _Mahdi Arghavani_, remote, 15 minutes
 - **Principles for Internet Congestion Management** - _Akshay Narayan_, remote, 20 minutes
-- **Panel discussion** - _Nitinder Mohan_, _Ingemar Johansson_, _Robert McMahon_, onsite, 45 minutes
+- **Panel discussion: Managing and measuring congestion in Wifi and 5G networks** - _Ingemar Johansson_ and _Robert McMahon_, remote, 45 minutes
