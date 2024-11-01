@@ -24,7 +24,7 @@
 - Chair slides - _Chairs_, onsite, 5 minutes
 - **Hackathon update** - _Chairs_, 5 minutes
 - **Pacing in transport protocols** - [draft-welzl-iccrg-pacing](https://datatracker.ietf.org/doc/draft-welzl-iccrg-pacing/) - _Michael Welzl_, onsite, 10 minutes
-- **Promises and Potential of BBRv3** - _Emilia Weyulu_, onsite, 20 minutes
+- **Promises and Potential of BBRv3** - _Emilia Weyulu_, 20 minutes
 - **SUSS: Improving TCP Performance by Speeding Up Slow-Start** - _Mahdi Arghavani_, remote, 15 minutes
 - **Principles for Internet Congestion Management** - _Akshay Narayan_, remote, 20 minutes
 - **Panel discussion: Managing and measuring congestion in Wifi and 5G networks** - _Ingemar Johansson_ and _Robert McMahon_, remote, 45 minutes
