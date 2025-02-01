@@ -23,6 +23,7 @@
 
 - Chair slides - _Chairs_, onsite, 5 minutes
 - **Hackathon update** - _Chairs_, 5 minutes
+- **Pacing in transport protocols** - [draft-welzl-iccrg-pacing](https://datatracker.ietf.org/doc/draft-welzl-iccrg-pacing/) - _Michael Welzl_, remote, 10 minutes
 - **Mind the Misleading Effects of LEO Mobility on End-to-End Congestion Control** - _Zeqi Lai_, 20 minutes
 - **Improving Cloud Gaming traffic QoS: a comparison between class-based queuing policy and L4S** - _Thibault Cholez_, 20 minutes
 - **Challenges in Networking for AIML clusters** - _Costin Raiciu_, 45 minutes
