@@ -2,8 +2,8 @@
 
 ## Time and Date
 
-* TBD
-* Location: TBD
+* Monday March 17, 09:30 - 11:30 ICT ([See this time in your local timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ICCRG+at+IETF+122&iso=20250317T0930&p1=28&ah=2))
+* Location: Boromphimarn 4
 * [IETF Agenda Link](https://datatracker.ietf.org/meeting/122/agenda/?show=iccrg)
 
 ## Links
