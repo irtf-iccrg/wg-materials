@@ -29,6 +29,6 @@
 Tutorial/Panel:
 - **QoE-aware congestion control in video streaming** - _Farzad Tashtarian_, remote 
 - **Real-time, live video delivery** - _Ali C. Begen_, on-site
-- **TBD** - _T-Y Huang_, TBD
+- **[Sammy: smoothing video traffic to be a friendly internet neighbor](https://dl.acm.org/doi/abs/10.1145/3603269.3604839)** - _T.Y. Huang_, onsite
 
 
