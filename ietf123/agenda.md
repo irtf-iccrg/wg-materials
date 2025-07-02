@@ -2,17 +2,17 @@
 
 ## Time and Date
 
-* TBD
-* TBD
-* [IETF Agenda Link](https://datatracker.ietf.org/meeting/123/agenda/)
+* Monday July 21, 17:00 - 19:00 CEST ([See this time in your local timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ICCRG+at+IETF+123&iso=20250721T1700&p1=141&ah=2))
+* Location: [Hidalgo](https://datatracker.ietf.org/meeting/123/floor-plan?room=hidalgo)
+* [IETF Agenda Link](https://datatracker.ietf.org/meeting/123/agenda/?show=iccrg)
 
 ## Links
 
-* [Onsite Tool](TBD)
-* [Meetecho Room](TBD)
-* [Meeting chat](TBD
-* [Notes](TBD) 
-* [Minutes](TBD)
+* [Onsite Tool](https://meetings.conf.meetecho.com/onsite123/?group=iccrg&short=iccrg&item=1)
+* [Meetecho Room](https://meetings.conf.meetecho.com/ietf123/?group=iccrg&short=iccrg&item=1)
+* [Meeting chat](https://zulip.ietf.org/#narrow/stream/iccrg)
+* [Notes](https://notes.ietf.org/notes-ietf-123-iccrg)
+* [Minutes](https://datatracker.ietf.org/doc/minutes-123-iccrg/)
 
 ## Administrivia
 
