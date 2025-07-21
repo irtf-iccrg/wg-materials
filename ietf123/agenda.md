@@ -23,7 +23,6 @@
 
 - **Chair slides & Hackathon update** - _Chairs_, 5 minutes
 - **Looking at the interplay between congestion control algorithms and speed-test tools** - _Jason Livingood_, on-site, 20 minutes
-- **TCP Prague updates** - _Koen De Schepper_, remote, 20 minutes
 - **Pacing in Transport Protocols (draft-welzl-iccrg-pacing-02) updates** - _Michael Welzl_, 10 minutes
 - **ACE: Sending Burstiness Control for High Quality Real-Time Communication** - _Zili Meng_, on-site, 10 minutes
 
