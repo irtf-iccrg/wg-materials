@@ -1,0 +1,28 @@
+# ICCRG Research Group Agenda - IETF 123
+
+## Time and Date
+
+* TBD
+* TBD
+* [IETF Agenda Link]
+
+## Links
+
+* [Onsite Tool](TBD)
+* [Meetecho Room](TBD)
+* [Meeting chat](TBD
+* [Notes](TBD) 
+* [Minutes](TBD)
+
+## Administrivia
+
+* Blue sheets / scribe selection / [NOTE WELL](https://www.irtf.org/policies/irtf-note-well-2021-05.pdf) 
+* Agenda revision
+
+## Presentations
+
+- **Chair slides & Hackathon update** - _Chairs_, 5 minutes
+- **Multi-Resource Congestion Control Protocol** - _Mario Patetta_, on-site, 20 minutes
+
+
+
