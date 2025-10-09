@@ -22,7 +22,7 @@
 ## Presentations
 
 - **Chair slides & Hackathon update** - _Chairs_, 5 minutes
-- **Multi-Resource Congestion Control Protocol** - _Mario Patetta_, on-site, 20 minutes
+- **Congestion Notification for Multi-Resource Allocation Control** - _Mario Patetta_, on-site, 20 minutes
 
 
 
