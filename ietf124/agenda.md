@@ -1,18 +1,17 @@
-# ICCRG Research Group Agenda - IETF 123
+# ICCRG Research Group Agenda - IETF 124
 
 ## Time and Date
-
-* TBD
-* TBD
-* [IETF Agenda Link]
+* Tuesday November 4, 14:30 - 16:30 EST ([See this time in your local timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ICCRG+at+IETF+124&iso=20251104T1430&p1=165&ah=2))
+* Location: [Van Horne](https://datatracker.ietf.org/meeting/124/floor-plan?room=van-horne)
+* [IETF Agenda Link](https://datatracker.ietf.org/meeting/124/agenda/?show=iccrg)
 
 ## Links
 
-* [Onsite Tool](TBD)
-* [Meetecho Room](TBD)
-* [Meeting chat](TBD
-* [Notes](TBD) 
-* [Minutes](TBD)
+* [Onsite Tool](https://meetings.conf.meetecho.com/onsite124/?group=iccrg&short=iccrg&item=1)
+* [Meetecho Room](https://meetings.conf.meetecho.com/ietf124/?group=iccrg&short=iccrg&item=1)
+* [Meeting chat](https://zulip.ietf.org/#narrow/stream/iccrg)
+* [Notes](https://notes.ietf.org/notes-ietf-124-iccrg)
+* [Minutes](https://datatracker.ietf.org/doc/minutes-124-iccrg/)
 
 ## Administrivia
 
