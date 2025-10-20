@@ -22,6 +22,7 @@
 ## Presentations
 
 - **Chair slides & Hackathon update** - _Chairs_, 5 minutes
+- **Pacing in Transport Protocols**, [draft-irtf-iccrg-pacing](https://datatracker.ietf.org/doc/draft-irtf-iccrg-pacing/) - TBD, 10 minutes
 - **Congestion Notification for Multi-Resource Allocation Control** - _Mario Patetta_, on-site, 20 minutes
 
 
