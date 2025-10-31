@@ -12,7 +12,7 @@
 * [Meeting chat](https://zulip.ietf.org/#narrow/stream/iccrg)
 * [Notes](https://notes.ietf.org/notes-ietf-124-iccrg)
 * [Minutes](https://datatracker.ietf.org/doc/minutes-124-iccrg/)
-
+https://datatracker.ietf.org/meeting/124/session/34772/slides
 ## Administrivia
 
 * Blue sheets / scribe selection / [NOTE WELL](https://www.irtf.org/policies/irtf-note-well-2021-05.pdf) 
@@ -21,6 +21,6 @@
 ## Presentations
 
 - **Chair slides & Hackathon update** - _Chairs_, 5 minutes
-- **Pacing in Transport Protocols**, [draft-irtf-iccrg-pacing](https://datatracker.ietf.org/doc/draft-irtf-iccrg-pacing/) - TBD, 10 minutes
+- **Pacing in Transport Protocols**, [draft-irtf-iccrg-pacing](https://datatracker.ietf.org/doc/draft-irtf-iccrg-pacing/) - _Michael Welzl_, 10 minutes
 - **Congestion Notification for Multi-Resource Allocation Control** - _Mario Patetta_, on-site, 20 minutes
 - **L4S and Prague update**, _Koen De Schepper_, on-site, 45 minutes
