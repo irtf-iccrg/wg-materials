@@ -21,6 +21,6 @@ https://datatracker.ietf.org/meeting/124/session/34772/slides
 ## Presentations
 
 - **Chair slides & Hackathon update** - _Chairs_, 5 minutes
-- **Pacing in Transport Protocols**, [draft-irtf-iccrg-pacing](https://datatracker.ietf.org/doc/draft-irtf-iccrg-pacing/) - _Michael Welzl_, 10 minutes
+- **Pacing in Transport Protocols**, [draft-irtf-iccrg-pacing](https://datatracker.ietf.org/doc/draft-irtf-iccrg-pacing/) - _Michael Welzl_, on-site, 10 minutes
 - **Congestion Notification for Multi-Resource Allocation Control** - _Mario Patetta_, on-site, 20 minutes
 - **L4S and Prague update**, _Koen De Schepper_, on-site, 45 minutes
