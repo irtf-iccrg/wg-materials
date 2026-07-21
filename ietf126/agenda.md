@@ -14,7 +14,7 @@
 * [Minutes]()
 
 ## Administrivia
-* Blue sheets / scribe selection / [NOTE WELL](https://www.irtf.org/policies/irtf-note-well-2021-05.pdf) 
+* Blue sheets / scribe selection / [NOTE WELL](https://github.com/irtf-iccrg/wg-materials/blob/main/ietf126/iccrg-126-session-slides.pdf) 
 * Agenda revision
 
 ## Presentations
