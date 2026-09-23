@@ -22,4 +22,4 @@
 - **Chair slides & Hackathon update**, _Chairs_, 5 minutes
 - **Improving Evaluation of Heterogenous Congestion Control Algorithm Interactions**, [paper](https://dl.acm.org/doi/10.1145/3789240.3829156), _Ranysha Ware_, remote, 30 minutes
 - **Extending Low Latency Service Across the Internet**, [paper](https://arxiv.org/abs/2608.26601), _Fatih Berkay Sarpkaya_, onsite, 20 minutes
-- **Measuring Service Congestion, Sharing, and Pacing in a Residential Access Network**, paper, _Shuyue Yu_, 30 minutes
+- **Measuring Service Congestion, Sharing, and Pacing in a Residential Access Network**, paper, _Bruce Spang_, 20 minutes
