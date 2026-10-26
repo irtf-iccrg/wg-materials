@@ -1,7 +1,7 @@
 # ICCRG Research Group Agenda - IETF 127
 
 ## Time and Date
-* Monday November 16, 19:00 - 11:00 PST ([See this time in your local timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ICCRG+at+IETF+127&iso=20261116T09&p1=224&ah=2))
+* Monday November 16, 09:00 - 11:00 PST ([See this time in your local timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ICCRG+at+IETF+127&iso=20261116T09&p1=224&ah=2))
 * Location: [Golden Gate 4-5](https://datatracker.ietf.org/meeting/127/floor-plan?room=golden-gate-4-5)
 * [IETF Agenda Link](https://datatracker.ietf.org/meeting/127/agenda)
 
