@@ -42,7 +42,7 @@ Reese provided a quick update on the topics covered during the hackathon on Test
 ## Extending Low Latency Service Across the Internet
 
 * Speaker: **Fatih Berkay Sarpkaya**
-* [Paper](https://arxiv.org/abs/2608.26601), , onsite, 20 minutes
+* [Paper](https://arxiv.org/abs/2608.26601)
 * [Slides](https://datatracker.ietf.org/meeting/127/materials/slides-127-iccrg-extending-low-latency-service-across-the-internet-00)
 
 * **Lars Eggert**: It looks like we need to change the entire path for L4S to work; I wonder if that destroys a bunch of attractiveness of L4S. Do we need to do this to maximize the benefits or is it no longer enough to know where the bottleneck is, and just put L4S there?
@@ -70,7 +70,7 @@ Reese provided a quick update on the topics covered during the hackathon on Test
 * **Bruce**: I think no, but we will get to it.
 
 * **Antonio Vicente**: About the games, are they interactive or download?
-* **Bruce** :Like a file download.
+* **Bruce**: Like a file download.
 
 * **Dave Seddon**: How are setting or unsetting the pacing? Youtube is always pacing.
 * **Bruce**: This is not a transport layer pacing, this is the application is requesting a specific rate, and transport layer is spacing our packets to not send it faster than that rate
